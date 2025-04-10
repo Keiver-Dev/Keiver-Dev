@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Technologies I work with
-- ⚛️ **React** – for dynamic and interactive applications  
+- ⚛️ **React** – for dynamic and interactive applications ( in progress ) 
 - 🌌 **Astro** – for ultra-fast, optimized websites  
 - 🎨 **Figma** – for clean and attractive UI design  
 - 💅 **Tailwind CSS**, **CSS Modules**, **Framer Motion** – to bring style and motion to every project
@@ -23,9 +23,8 @@
 
 ## 📫 Let’s connect!
 You can find or reach out to me here:
-- 🐦 [@yourhandle](https://twitter.com/yourhandle) – Twitter  
-- 💼 [LinkedIn](https://linkedin.com/in/yourhandle)  
-- 🌐 [Your portfolio](https://yourportfolio.com) *(optional)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/keiver-santiago-luna-armenta-101716339/)  
+- 🌐 [Your portfolio](https://keiver-dev.github.io/Portafolio/)
 
 ---
 

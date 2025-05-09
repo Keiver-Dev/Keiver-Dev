@@ -16,7 +16,7 @@
 ## 🛠️ Some of my projects
 - 🎨 **Wallpaper Gallery** built with React 19  
 - 🌐 **Personal Portfolio**
-- 🌐 **Svg Gallery**
+- 🌐 **Gallery**
 - 🌐 **Spotify Clone**
 - 🧪 More projects and experiments coming soon...
 

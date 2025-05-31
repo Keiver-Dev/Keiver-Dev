@@ -14,7 +14,7 @@
 ---
 
 ## 🛠️ Some of my projects
-- 🎨 **Wallpaper Gallery** built with React 19  
+- 🎨 **Wallpaper Gallery** 
 - 🌐 **Personal Portfolio**
 - 🌐 **Gallery**
 - 🌐 **Spotify Clone**
@@ -25,7 +25,7 @@
 ## 📫 Let’s connect!
 You can find or reach out to me here:
 - 💼 [LinkedIn](https://www.linkedin.com/in/keiver-santiago-luna-armenta-101716339/)  
-- 🌐 [My portfolio](https://keiver-dev.github.io/Portafolio-v.1.2/)
+- 🌐 [My portfolio](https://keiver-dev.github.io/Portafolio/)
 
 ---
 

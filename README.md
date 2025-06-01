@@ -6,10 +6,19 @@
 
 ---
 
-## 🚀 Technologies I work with
+## 🚀 Framework currently
 - ⚛️ **React** – for dynamic and interactive applications 
 - 🌌 **Astro** – for ultra-fast, optimized websites    
-- 💅 **Tailwind CSS**, **CSS Modules**, **Framer Motion** – to bring style and motion to every project
+---
+
+## 🧰 Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
 
 ---
 

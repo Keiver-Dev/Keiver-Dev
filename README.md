@@ -33,7 +33,7 @@
 
 ## 📫 Let’s connect!
 You can find or reach out to me here:
-- 💼 [LinkedIn](https://www.linkedin.com/in/keiver-santiago-luna-armenta-101716339/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/keiver-luna/)  
 - 🌐 [My portfolio](https://keiver-dev.github.io/Portafolio/)
 
 ---

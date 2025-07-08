@@ -13,15 +13,14 @@
 💻 Passionate about building modern, smooth, and functional interfaces.  
 🎨 I turn ideas into visual experiences using **React**, **Astro**, and user-centered design.
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+---
 
 
 ## 🚀 Framework currently
 - ⚛️ **React** – for dynamic and interactive applications 
 - 🌌 **Astro** – for ultra-fast, optimized websites    
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+---
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages & Tools
@@ -39,7 +38,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+---
 
 
 ## 🛠️ Some of my projects
@@ -51,7 +50,7 @@
 - 🧪 More projects and experiments coming soon...
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+---
 
 
 ## 📫 Let’s connect!
@@ -59,7 +58,7 @@ You can find or reach out to me here:
 - 💼 [LinkedIn](https://www.linkedin.com/in/keiver-luna/)  
 - 🌐 [My portfolio](https://keiver-dev.github.io/Portafolio/)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 > Always learning, always building.  
 Thanks for stopping by 🙌

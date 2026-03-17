@@ -1,65 +1,62 @@
-<h1 align="left"><b>Hi, I'm Keiver Luna </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
+<h1 align="left">Keiver Luna</h1>
+
+<p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=24&center=true&vCenter=true&width=750&height=100&lines=💻+Full+Stack+Developer;🌐+React+%7C+Node.js+%7C+Express+%7C+PostgreSQL;☕+Java+%7C+Spring+Web;🎨+Building+end-to-end+solutions;🚀+Always+learning+new+technologies;📚+Self-taught+and+tech+passionate">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=555555&size=16&center=false&vCenter=true&width=500&height=40&lines=Full-stack+developer+%C2%B7+Open+to+work;Node.js+%7C+React+19+%7C+PostgreSQL;Building+from+database+to+UI" alt="Typing SVG" />
   </a>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-### 🧠 Full Stack Developer 
-💻 Passionate about building complete, modern, and scalable applications from frontend to backend.  
-🎨 I create seamless user experiences with **React** and **Astro**, powered by robust APIs built with **Node.js**, **Express**, **Java**, **Spring Web**, and **PostgreSQL**.
 
 ---
 
-## 🚀 Tech Stack
+### About
 
-### Frontend
-| Icon | Technology |
-|:----:|:----------|
-| [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | **React** – for dynamic and interactive applications |
-| [![Astro](https://skillicons.dev/icons?i=astro)](https://skillicons.dev) | **Astro** – for ultra-fast, optimized websites |
+Full-stack developer focused on building complete, modern, and scalable applications — from database design to user interface.
 
-### Backend
-| Icon | Technology |
-|:----:|:----------|
-| [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) | **Node.js** – JavaScript runtime for server-side development |
-| [![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev) | **Express** – minimal and flexible Node.js web framework |
-| [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) | **Java** – robust and scalable object-oriented programming |
-| [![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | **Spring Web** – Java framework for building RESTful web services |
-| [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) | **PostgreSQL** – powerful relational database |
+I enjoy working across the entire stack: REST APIs, distributed job queues, real-time features, and clean frontend experiences. Currently deepening my expertise in **Node.js**, **React 19**, and **PostgreSQL** while building a personal SaaS project that puts all of it into practice.
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages & Tools
+### What I'm working on
 
-**Full Stack Development**:
+**Kairo** `v0.8.0-beta` · personal project  
+SaaS project management platform for development teams. Propagates deterministic context on GitHub events — PR merges, issue closures — without AI or rule configuration. Full dependency graph, real-time collaboration, time tracking, and activity logs.  
+`Node.js` `React 19` `PostgreSQL` `BullMQ` `Redis` `Socket.io` `Vite` `Tailwind 4`
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,java,spring,postgres,tailwind,figma,git,github,vscode)](https://skillicons.dev)
+**webhook-forge** · open source  
+Webhook testing and inspection tool. Companion tunnel CLI for local development.  
+`Node.js` `CLI`
 
----
-
-## 🛠️ Some of my projects
-- 🎨 **Wallpaper Gallery** 
-- 🌐 **Personal Portfolio**
-- 🌐 **Gallery**
-- 🌐 **Spotify Clone**
-- 🌐 **Kairo Studios**
-- 🧪 More projects and experiments coming soon...
+**kairo-mail-service** · open source  
+Standalone email microservice with a generalized template system across Auth, Billing, Onboarding, and System categories.  
+`Node.js` `microservice`
 
 ---
 
-## 📊 GitHub Stats
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keiver-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+### Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-333?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-333?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React_19-333?style=flat&logo=react&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-333?style=flat&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-333?style=flat&logo=bull&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-333?style=flat&logo=socket.io&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-333?style=flat&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_4-333?style=flat&logo=tailwindcss&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-333?style=flat&logo=jest&logoColor=white)
+
+Also worked with: Java · Spring Web · Astro
+
+---
+
+### Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keiver-Dev&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" />
 </p>
 
-## 📫 Let's connect!
-You can find or reach out to me here:
-- 💼 [LinkedIn](https://www.linkedin.com/in/keiver-luna/)  
-- 🌐 [My portfolio](https://keiver-dev.github.io/Portafolio/)
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+### Connect
 
-> Always learning, always building.  
-Thanks for stopping by 🙌
+[LinkedIn](https://www.linkedin.com/in/keiver-luna/) · [Portfolio](https://keiver-dev.github.io/Portafolio/)

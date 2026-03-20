@@ -18,7 +18,7 @@ I enjoy working across the entire stack: REST APIs, distributed job queues, real
 
 ### What I'm working on
 
-**Kairo** `v0.8.0-beta` · personal project  
+**Vlynk Studios** `v0.8.0-beta` · personal project  
 SaaS project management platform for development teams. Propagates deterministic context on GitHub events — PR merges, issue closures — without AI or rule configuration. Full dependency graph, real-time collaboration, time tracking, and activity logs.  
 `Node.js` `React 19` `PostgreSQL` `BullMQ` `Redis` `Socket.io` `Vite` `Tailwind 4`
 

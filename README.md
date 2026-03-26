@@ -59,4 +59,4 @@ Also worked with: Java · Spring Web · Astro
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/keiver-luna/) · [Portfolio](keiverluna.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/keiver-luna/) · [Portfolio](https://keiverluna.vercel.app/)

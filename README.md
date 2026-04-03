@@ -26,7 +26,7 @@ SaaS project management platform for development teams. Propagates deterministic
 Webhook testing and inspection tool. Companion tunnel CLI for local development.  
 `Node.js` `CLI`
 
-**kairo-mail-service** · open source  
+**Letterbox-mail-service** · open source  
 Standalone email microservice with a generalized template system across Auth, Billing, Onboarding, and System categories.  
 `Node.js` `microservice`
 

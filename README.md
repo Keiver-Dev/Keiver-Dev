@@ -11,7 +11,7 @@
 
 Full-stack developer building complete, production-oriented applications — from database schema to UI. My focus is backend architecture: REST APIs, event-driven systems, job queues, and real-time features. I also care about clean frontend experiences, so I stay hands-on with React and Tailwind.
 
-Currently deepening my backend expertise through **Vlynk**, a SaaS I'm building solo — it's the best kind of learning environment: real constraints, real edge cases, no shortcuts. Based in Porto Alegre 🇧🇷 and enrolled at SENAC's Systems Development program.
+Currently deepening my backend expertise through **Vlynk**, a SaaS I'm building solo — it's the best kind of learning environment: real constraints, real edge cases, no shortcuts.
 
 ---
 

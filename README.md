@@ -1,7 +1,7 @@
 <h1 align="left">Keiver Luna 👋</h1>
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=555555&size=16&center=false&vCenter=true&width=500&height=40&lines=Full-stack+developer+%C2%B7+Backend-focused;Node.js+%7C+React+19+%7C+PostgreSQL+%7C+Redis;Building+Vlynk+%E2%80%94+SaaS+from+scratch%2C+solo" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FFFFFF&size=16&center=false&vCenter=true&width=500&height=40&lines=Full-stack+developer+%C2%B7+Backend-focused;Node.js+%7C+React+19+%7C+PostgreSQL+%7C+Redis;Building+Vlynk+%E2%80%94+SaaS+from+scratch%2C+solo" />
   </a>
 </p>
 

@@ -21,7 +21,7 @@ Currently deepening my backend expertise through **Vlynk**, a SaaS I'm building 
 SaaS project management platform for development teams. Propagates deterministic context from GitHub events — PR merges, issue closures — without AI or manual rule configuration. Full dependency graph, real-time collaboration, time tracking, and structured activity logs.  
 `Node.js` `React 19` `PostgreSQL` `BullMQ` `Redis` `Socket.io` `Vite` `Tailwind 4`
 
-**Nodulus** · open source · active  
+**Kerith** · open source · active  
 Node.js/TypeScript framework organized around a Domain → Module → SubModule hierarchy. Designing an extended API layer across transport, pipeline, cross-cutting concerns, and documentation categories.  
 `Node.js` `TypeScript` `framework`
 
